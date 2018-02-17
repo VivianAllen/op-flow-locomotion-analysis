@@ -1,0 +1,1 @@
+This python script searches a folder tree for video files, and then uses the python openCV library to calculate optical flow from each video, then creates and saves a figure of the results. When calibrated with a known linear distance in m, results will be in m/s.
